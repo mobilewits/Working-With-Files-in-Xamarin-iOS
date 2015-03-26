@@ -1,0 +1,3 @@
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/mtouch-cache/64/Link/mscorlib.dll
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/mtouch-cache/64/Link/FileSystemXamariniOS.exe
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.iOS.dll

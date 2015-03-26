@@ -1,0 +1,29 @@
+# Version: 8.6.1.26 (98ee412)
+# [first argument, ignore] # /Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.6.1.26/bin/mtouch-64 \
+	--cache \
+	/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/mtouch-cache \
+	--dev \
+	/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/bin/iPhone/Debug/FileSystemXamariniOS.app \
+	--executable \
+	FileSystemXamariniOS \
+	--debug \
+	--linksdkonly \
+	--sdkroot \
+	"/Applications/Xcode 6.1.app/Contents/Developer" \
+	--sdk \
+	8.1 \
+	--targetver \
+	8.0 \
+	--abi=armv7,arm64 \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/bin/iPhone/Debug//FileSystemXamariniOS.exe \

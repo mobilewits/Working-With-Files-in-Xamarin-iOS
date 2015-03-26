@@ -1,0 +1,12 @@
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/actool/partial-info.plist
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/bin/iPhone/Debug/FileSystemXamariniOS.exe.mdb
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/bin/iPhone/Debug/FileSystemXamariniOS.exe
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/FileSystemXamariniOS.exe
+/Users/hariwepuri/Desktop/Xamarin_Tutorial/FileSystemXamariniOS/FileSystemXamariniOS/obj/iPhone/Debug/FileSystemXamariniOS.exe.mdb
